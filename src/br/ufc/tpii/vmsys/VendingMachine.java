@@ -1,8 +1,6 @@
 package br.ufc.tpii.vmsys;
 
-import br.ufc.tpii.vmsys.exceptions.InsufficientFunds;
-import br.ufc.tpii.vmsys.exceptions.InvalidSelection;
-import br.ufc.tpii.vmsys.exceptions.OutOfStock;
+import br.ufc.tpii.vmsys.exceptions.*;
 import br.ufc.tpii.vmsys.inventory.Inventory;
 import br.ufc.tpii.vmsys.inventory.Item;
 import br.ufc.tpii.vmsys.inventory.exceptions.ItemNotFound;
