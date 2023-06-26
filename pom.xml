@@ -18,12 +18,6 @@
     <sourceDirectory>${project.basedir}/src</sourceDirectory>
     <testSourceDirectory>${project.basedir}/teste</testSourceDirectory>
     
-    <resources>
-      <resource>
-        <directory>src</directory>
-      </resource>
-    </resources>
-    
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
