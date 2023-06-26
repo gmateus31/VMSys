@@ -4,7 +4,7 @@
   <artifactId>VMSys</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>vmsys</name>
-  <description>Sistema capaz de cadastrar e remover itens do estoque, além de realizar vendas aos usuários do sistema.</description>
+  <description>Sistema capaz de cadastrar e remover itens de estoque, além disso, consegue realizar vendas aos usuários do sistema.</description>
   
   <dependencies>
 	  <dependency>
